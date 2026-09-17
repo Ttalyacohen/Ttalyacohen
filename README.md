@@ -1,8 +1,12 @@
 ### Hi there, I'm Talya Cohen 👋
 
+---
+
 ### About Me 🎓
 
 I am a graduate with honors holding a B.Sc. in Computer Science, specializing in Data Science and Artificial Intelligence, and currently pursuing an M.Sc. in Computer Science with a thesis. My research focuses on AI model security based on Zero Trust architectures. I am passionate about advanced machine learning, system security, and innovative technologies.
+
+---
 
 ### 🛠️ Technologies & Tools
 
@@ -30,6 +34,8 @@ I am a graduate with honors holding a B.Sc. in Computer Science, specializing in
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 </p>
+
+---
 
 ### Connect with me 📬
 
