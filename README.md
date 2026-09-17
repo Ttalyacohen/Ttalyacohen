@@ -1,6 +1,6 @@
 ### Hi there, I'm Talya Cohen 👋
 
---
+<hr style="border: none; height: 1px; background-color: #e1e4e8; margin: 20px 0;" />
 
 ### About Me 🎓
 ---
